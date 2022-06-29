@@ -7,7 +7,7 @@ buyer's name : daffa
         1. Fried Rice - IDR 15000    # you choose the menu order number you want to order
         2. Meatball - IDR 9000
         3. Smoke Beef - IDR 21000
-input your choice number in menu : 2 # like this 
+input your choice number in menu : 2 # like this  
 How many servings : 1     # how many would you like to order
 1  Portion of Meatball = IDR 9000 # the price of the menu you order and how much you order
 
